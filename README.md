@@ -24,6 +24,8 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Online payment fraud](https://rpubs.com/nancunjie4560/898977): Detect if the online payment is a fraud or not with random forest and bagging/bootstrap aggregating model.
 
      - [Loan Approval](https://rpubs.com/nancunjie4560/890128): With classification tree model to identify if a bank would issue a loan or not.
+     
+     - [Crime neighborhood](https://github.com/nancunjie4560/Data621/blob/master/Assignment3-Models.pdf): Using stepwise logistic model to predict whether the neighborhood will be at risk for high crime levels.
 
      - [Titanic - Machine Learning from Disaster](https://rpubs.com/nancunjie4560/935617): This is a kaggle competition that identifies who got survived from the disaster of Titanic.
 
