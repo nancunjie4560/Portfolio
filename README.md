@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Research:
 
-     - [Predicting Life Expectancy and Analysis of the Impact of the Immunization on the United States](https://www.researchgate.net/publication/363047748_Predicting_Life_Expectancy_and_Analysis_of_the_Impact_of_the_Immunization_on_the_United_States)This study predicts and analyzes life expectancy and simulates the effect of different levels of vaccination coverage rate on life expectancy in the United States. 
+     - [Predicting Life Expectancy and Analysis of the Impact of the Immunization on the United States](https://www.researchgate.net/publication/363047748_Predicting_Life_Expectancy_and_Analysis_of_the_Impact_of_the_Immunization_on_the_United_States): This study predicts and analyzes life expectancy and simulates the effect of different levels of vaccination coverage rate on life expectancy in the United States. 
 
      - [Wage Discrimination Between U.S. Born Citizens vs. Naturalized Citizens or Legal Residents](https://www.researchgate.net/publication/341090127_Wage_Discrimination_Between_US_Born_Citizens_vs_Naturalized_Citizens_or_Legal_Residents): Using the OLS model, Oaxaca-Blinder decomposition, quantile regression, andcausal random forest green model to verify if any wage difference between US-born citizens compare with other leagal residents.
      
@@ -25,7 +25,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
      - [Loan Approval](https://rpubs.com/nancunjie4560/890128): With classification tree model to identify if a bank would issue a loan or not.
 
-     - [Titanic - Machine Learning from Disaster]: This is a kaggle competition that identifies who got survived from the disaster of Titanic.
+     - [Titanic - Machine Learning from Disaster](https://rpubs.com/nancunjie4560/935617): This is a kaggle competition that identifies who got survived from the disaster of Titanic.
 
      - [Who is Drunk in Ames, Iowa](https://rpubs.com/nancunjie4560/859646): Find out the patterns of people getting drunk in Ames, Iowa.
 
