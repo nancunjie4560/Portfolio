@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Portfolio - Chunjie Nan
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form R markdown files (published at RPubs) and PDF file from github.
 
