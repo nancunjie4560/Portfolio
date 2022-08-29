@@ -38,6 +38,8 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Wine sales](https://github.com/nancunjie4560/Data621/blob/master/Assignment5-Models.pdf): Predict the number of cases of wine that will be sold to adjust the wine for maximizing sales.
 
      - [Dr. Ignaz Semmelweis and Handwashing](https://rpubs.com/nancunjie4560/855311): Simulates that a doctor wash his hands was a simple but highly effective procedure that could decrease the proportion of death while on surgery.
+     
+     - [Major league](https://rpubs.com/nancunjie4560/935818): predict the number of wins for the team with the given attributes of each record.
 
      - [Degrees That Pay You Back](https://rpubs.com/nancunjie4560/854768): With clustering to find out the highest paid majors.
 
