@@ -34,6 +34,8 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Who is Drunk in Ames, Iowa](https://rpubs.com/nancunjie4560/859646): Find out the patterns of people getting drunk in Ames, Iowa.
 
      - [Reducing Traffic Mortality in the USA](https://rpubs.com/nancunjie4560/855910): Using PCA and unsupervised clustering to derive a strategy to reduce the incidence of road accidents across the USA.
+     
+     - [Wine sales](https://github.com/nancunjie4560/Data621/blob/master/Assignment5-Models.pdf): Predict the number of cases of wine that will be sold to adjust the wine for maximizing sales.
 
      - [Dr. Ignaz Semmelweis and Handwashing](https://rpubs.com/nancunjie4560/855311): Simulates that a doctor wash his hands was a simple but highly effective procedure that could decrease the proportion of death while on surgery.
 
