@@ -20,6 +20,8 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Projects:
 
      - [The trade war between China and U.S.](https://rpubs.com/nancunjie4560/901997): Mainly use visulization to analyze and present the meaningful insight of the international trade relationship between U.S. and China, and the current trading situations.
+     
+     - [Car crash](https://github.com/nancunjie4560/Data621/blob/master/Assignment4_v4.pdf): Building multiple linear regression and binary logistic model to predict the probability that a person will crash their car.
 
      - [Online payment fraud](https://rpubs.com/nancunjie4560/898977): Detect if the online payment is a fraud or not with random forest and bagging/bootstrap aggregating model.
 
