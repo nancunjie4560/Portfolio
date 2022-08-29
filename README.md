@@ -47,6 +47,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Exercises & Solutions
 
+    - [Classification metrics](https://github.com/nancunjie4560/Data621/blob/master/Assignment02.pdf): Various classification metrics, ROC, and AUC.
+
     - [Time series](https://rpubs.com/nancunjie4560/778134): Seasonality, cyclicity and trend.
     
     - [Time series](https://rpubs.com/nancunjie4560/660213): Box-Cox transformation.
