@@ -39,6 +39,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
      - [Degrees That Pay You Back](https://rpubs.com/nancunjie4560/854768): With clustering to find out the highest paid majors.
 
+     - [Violent crime](https://github.com/nancunjie4560/Data621/blob/master/DATA621_FINAL.pdf): The project assessed the use of Multiple linear regression, Ridge regression, Lasso regresssion, and Elsatic net to predict the incidences of violent crimes.
+
      - [Ham or Sapm](https://rpubs.com/nancunjie4560/835026): Using Naive Bayes model, make classification of ham or sapm.
 
      - [The most valued data science skills](https://rpubs.com/nancunjie4560/823477): With the data sets from Kaggle's website, extract the keywords of the most widely used from data, and find out their frequencies. The keywords include packages or libraries and skill sets.
