@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
      - [Predicting Life Expectancy and Analysis of the Impact of the Immunization on the United States](https://www.researchgate.net/publication/363047748_Predicting_Life_Expectancy_and_Analysis_of_the_Impact_of_the_Immunization_on_the_United_States): This study predicts and analyzes life expectancy and simulates the effect of different levels of vaccination coverage rate on life expectancy in the United States. 
 
-     - [Wage Discrimination Between U.S. Born Citizens vs. Naturalized Citizens or Legal Residents](https://www.researchgate.net/publication/341090127_Wage_Discrimination_Between_US_Born_Citizens_vs_Naturalized_Citizens_or_Legal_Residents): Using the OLS model, Oaxaca-Blinder decomposition, quantile regression, andcausal random forest green model to verify if any wage difference between US-born citizens compare with other leagal residents.
+     - [Wage Discrimination Between U.S. Born Citizens vs. Naturalized Citizens or Legal Residents](https://www.researchgate.net/publication/341090127_Wage_Discrimination_Between_US_Born_Citizens_vs_Naturalized_Citizens_or_Legal_Residents): Using the OLS model, Oaxaca-Blinder decomposition, quantile regression, andcausal random forest model to verify if any wage difference between US-born citizens compare with other leagal residents.
      
     - [How do demographics and mental health status affect healthcare access?](https://www.researchgate.net/publication/341090152_How_do_demographics_and_mental_health_status_affect_healthcare_access) : The study analyzes if people who suffer from discrimination or mental illness are proneto less healthcare access.
 
